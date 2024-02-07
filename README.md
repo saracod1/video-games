@@ -6,10 +6,15 @@ La industria de los videojuegos es una de las más importantes y dinámicas a ni
 Durante el desarrollo de este proyecto, se abordan las siguientes preguntas:
 
 ¿Cuál es el número total de videojuegos vendidos?
+
 ¿Cuáles son las plataformas más populares?
+
 ¿Qué géneros de juegos son los más vendidos?
+
 ¿Cómo ha evolucionado el mercado a lo largo del tiempo?
+
 ¿Cuál es la relación entre el año de lanzamiento y las ventas globales?
+
 ¿Qué editoriales tienen mayor participación en el mercado?
 
 Para abordar estas preguntas, se emplean técnicas de análisis de datos utilizando herramientas como SQL y Power BI.
